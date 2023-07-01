@@ -1,0 +1,43 @@
+*{
+    margin: 40px;;
+    padding:0;
+}
+
+.main{
+    background-color: black;
+    height: auto;
+    width: 800px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.btn {
+    width: 100px;
+    margin: 5px;
+    /* Adjust the width as per your preference */
+}
+
+.display {
+    width: 88%;
+    height: 80px;
+    /* Adjust the height as per your preference */
+    font-size: 24px;
+    /* Adjust the font size as per your preference */
+}
+
+.btn-equal {
+    background-color: #2e8fd4;
+    color: white;
+}
+
+.btn-grey {
+    background-color: rgb(177, 177, 177);
+        color: black;
+
+}
+
+.btn-white {
+    background-color: white;
+    color: black;
+
+}
